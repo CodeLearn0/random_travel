@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://codelearn0.github.io/random_travel_html/sitemap.xml
+Sitemap: https://codelearn0.github.io/random_travel/sitemap.xml
+
